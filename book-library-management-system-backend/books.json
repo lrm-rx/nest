@@ -1,0 +1,30 @@
+[
+  {
+    "id": 362229,
+    "author": "卡颂",
+    "name": "react设计原理",
+    "description": "《React设计原理》是电子工业出版社出版图书，作者是卡颂通过本书的学习，读者可以对当前主流前端框架的实现原理有清晰的认识，并对React从理念到实现层面有比较深入的理解。",
+    "cover": "xx.png"
+  },
+  {
+    "id": 565276,
+    "author": "Nicholas C. Zakas",
+    "name": "javascript高级程序设计(第六版)",
+    "description": "JavaScript权威指南 第六版 javascript犀牛书 JavaScript高级程序设计配套前端开发程序设计教程web开发HTML网站实战工具书籍 作者:David出版社:机械工业出版社出版时间: 2024年02月。",
+    "cover": "yyjj.png"
+  },
+  {
+    "id": 182602,
+    "author": "Nicholas C. Zakas",
+    "name": "javascript高级程序设计",
+    "description": "JavaScript权威指南 第六版 javascript犀牛书 JavaScript高级程序设计配套前端开发程序设计教程web开发HTML网站实战工具书籍 作者:David出版社:机械工业出版社出版时间: 2024年02月。",
+    "cover": "yy.png"
+  },
+  {
+    "id": 320838,
+    "author": "卡颂",
+    "name": "react设计原理",
+    "description": "《React设计原理》是电子工业出版社出版图书，作者是卡颂通过本书的学习，读者可以对当前主流前端框架的实现原理有清晰的认识，并对React从理念到实现层面有比较深入的理解。",
+    "cover": "xx.png"
+  }
+]
