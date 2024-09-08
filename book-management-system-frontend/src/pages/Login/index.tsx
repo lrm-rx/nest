@@ -35,7 +35,7 @@ const layout2 = {
 export function Login() {
   return (
     <div className="login-container">
-      <h1>图书管理系统</h1>
+      <h1>图书管理demo</h1>
       <Form {...layout1} onFinish={onFinish} colon={false} autoComplete="off">
         <Form.Item
           label="用户名"

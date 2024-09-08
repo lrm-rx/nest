@@ -1,0 +1,32 @@
+.book-manage {
+  display: flex;
+  flex-direction: column;
+}
+
+.book-manage h1 {
+  height: 80px;
+  line-height: 80px;
+  border-bottom: 2px solid #ccc;
+  padding-left: 20px;
+}
+
+.book-manage .content {
+  padding: 20px;
+}
+
+.book-manage .book-list {
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.book-manage .book-list .card {
+  margin-left: 30px;
+  margin-bottom: 30px;
+}
+
+.book-manage .book-list .links {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
